@@ -1,4 +1,4 @@
-# 🕹️ Hangman Game (Python)
+# CodeAlpha_-Hangman-Game
 
 ## 📌 Overview
 This is a simple text‑based Hangman game built in Python. The program randomly selects a word from a predefined list, and the player has 6 chances to guess it correctly before losing.  
