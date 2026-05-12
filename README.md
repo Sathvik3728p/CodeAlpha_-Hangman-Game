@@ -5,7 +5,7 @@ This is a simple text‑based Hangman game built in Python. The program randomly
 
 ## ⚙️ Features
 - Predefined list of 5 words (`apple`, `chair`, `water`, `puzzle`, `house`)  
-- Random word selection using `random.choice()`  
+- Random word selection using `random.choice().`  
 - Tracks guessed letters and remaining attempts  
 - Console‑based input/output — no graphics or audio  
 - Clear win/lose messages  
@@ -48,4 +48,3 @@ Word: _ a _ _ _
 - Reinforced understanding of loops and conditionals in Python  
 - Learned how to manage game state (letters guessed, attempts left)  
 - Practiced building interactive console applications
-- 
